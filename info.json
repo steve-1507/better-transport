@@ -1,0 +1,9 @@
+{
+  "name": "oil_enhancements",
+  "version": "0.1.0",
+  "title": "Oil Enhancements",
+  "author": "Steve_1507_and_Disconnector",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "A mod that allows oil refineries to only produce heavy oil, liquid gas or light oil."
+}
