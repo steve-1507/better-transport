@@ -1,8 +1,8 @@
 data:extend({
 {
-type = "item",
-name = "transport_belt",
-icon = "/graphics/entity/yellow_belt",
+type = "transport_belt",
+name = "yellow-transport-belt",
+icon = "/graphics/entity/yellow-transport-belt",
 flags = {"goes-to-quickbar"},
 subgroup = "logistic",
 stack_size = 100,
