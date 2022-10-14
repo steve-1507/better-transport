@@ -2,7 +2,7 @@ data:extend({
 
 {
 type = "item",
-name = "yellow_belt",
+name = "yellow-transport-belt",
 icon = "better-transport/graphics/icons/yellow-transport-belt.png",
 flags = {"goes-to-inventory"},
 subgroup = "logistic",
