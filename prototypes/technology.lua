@@ -12,7 +12,7 @@ data:extend({
             recipe = "yellow-transport-belt"
         },
       },
-      prerequisites = {"logistics-1},
+      prerequisites = {"logistics-1"},
       unit =
       {
         count = 10,
