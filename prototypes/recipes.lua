@@ -9,4 +9,4 @@ data:extend({
     },
     result = "yellow-transport-belt"
   },
-    )}
+    })
