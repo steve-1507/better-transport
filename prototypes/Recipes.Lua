@@ -5,7 +5,7 @@ data:extend({
     enabled = "true",
     ingredients = 
     {
-      {"",100},
+      {"ironstick",4},{"fast
     },
     result = "verylonginserter"
   },
