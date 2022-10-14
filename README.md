@@ -1,5 +1,5 @@
 # Better-transport
-Adds 90-degree inserters and even faster transport belts, the green and the yellow ones
+Adds 90-degree inserters and even faster transport belts, in the colours Green, Yellow and Orange
 
 Green transport belt: 60 Items/s
 
