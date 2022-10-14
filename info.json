@@ -1,9 +1,9 @@
 {
   "name": "better-transport",
   "version": "0.1.0",
-  "title": "Steves oil",
+  "title": "better-transport",
   "author": "Steve_1507_and_Disconnector",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"],
-  "description": "Adds recipes for producing light / heavy oil only."
+  "description": "Adds 90-degree inserters and even faster transport belts, in the colours Green, Yellow and Orange. Green transport belt 60 Items/s, Yellow transport belt: 75 Items/s, Orange transport belt: items can be placed in the middle of the belt, which allows the transport of 125 Items/s"
 }
