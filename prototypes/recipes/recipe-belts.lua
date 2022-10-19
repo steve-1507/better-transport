@@ -2,7 +2,7 @@ data:extend(
 {
 	{
 		type = "recipe",
-		name = "yellow-transport-belt"
+		name = "yellow-transport-belt",
 		ingredients =
 		{
 			{"express-transport-belt", 3},
