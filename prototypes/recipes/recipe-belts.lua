@@ -2,9 +2,7 @@ data:extend(
 {
 	{
 		type = "recipe",
-		name = "yellow-transport-belt",
-		category = "crafting",
-		enabled = false,
+		name = "yellow-transport-belt"
 		ingredients =
 		{
 			{"express-transport-belt", 3},
@@ -12,7 +10,7 @@ data:extend(
 			
 		},
 		result = "yellow-transport-belt",
-		result_count = 1
+		result_count = 2
 	},
    
   
